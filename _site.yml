@@ -1,9 +1,26 @@
-name: "my-website"
+name: "Shirley Sedano"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Shirley Sedano"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Menu"
+      menu:
+       - text: "Sobre mi"
+         icon: fa-user
+         href: index.html
+       - text: "Trabajos"
+         icon: fa-archive
+         href: about.html
+       - text: "Densidades"
+         icon: fa-archive
+         href: densidades.html
+  right:
+    - icon: fa-envelope-o
+      href: "mailto:dssanchezs@unal.edu.co"
+    - icon: fa-github
+      href: https://dssanchezs.github.io/
+output:
+  html_document:
+    theme: flatly
+    highlight: monochrome
+    

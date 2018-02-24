@@ -1,5 +1,11 @@
 ---
-title: "About This Website"
+title: ""
 ---
+## Comparacion de dos modelos estadisticos para estimar el WAR (Win Above Replacement) con modelos GAMLSS
 
-More about this website.
+Este trabajo fue realizado en el curso de regresion lineal dictado por el docente Freddy Hernandez. El objetivo fue encontrar dos modelos estadisticos que permitieran identificar las covariables significativas que permanecen constantes tanto en el ano 1970 como en el 2016, para estimar el WAR de los lanzadores en el Beisbol.
+
+![](https://user-images.githubusercontent.com/36393037/36626278-1c30cf4c-18fe-11e8-9a09-74c7df146685.jpg)
+
+
+Puede ingresar al siguiente enlace [comparacion modelos.pdf](https://github.com/dssanchezs/dssanchezs.github.io/files/1754061/comparacion.modelos.pdf) y observar con detalle el trabajo realizado.

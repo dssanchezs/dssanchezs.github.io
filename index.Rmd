@@ -6,10 +6,11 @@ title: " "
 
 # Bienvenidos a mi pagina!
 
-Mi nombre es Shirley Sedano, tengo 23 anos y vivo actualmente en la ciudad de Medellin-Colombia. En el ano 2014 inicie mis estudios en la Universidad Nacional de Colombia en el pregrado de Matematicas, tres anos despues decidi cambiar de carrera a Estadistica.
+Mi nombre es Shirley Sedano, tengo 23 anos y vivo actualmente en la ciudad de Medellin-Colombia. En el ano 2014 inicie mis estudios en la [Universidad Nacional de Colombia](http://medellin.unal.edu.co/) en el pregrado de Matematicas, tres anos despues decidi cambiar de carrera a Estadistica.
 
 
-Amo los animales (tengo 5 perros),hacer ejercicio y conocer nuevos lugares.
+Amo los animales (por ahora tengo cinco perros),me gusta hacer ejercicio y conocer nuevos lugares.
+
 
 
 

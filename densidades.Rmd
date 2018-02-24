@@ -1,0 +1,24 @@
+---
+title: "Densidades"
+---
+
+Para hallar el grafico de densidad para una variable cuantitativa ,realizaremos el siguiente ejemplo:
+
+1.Utilizaremos la base *mtcars* disponible en R.
+
+2.Usaremos la variable cuantitativa *mpg* de la base de datos.
+
+3.Para graficar solo debemos usar dos funciones *plot* y *density*.
+La funcion *plot* es una funcion generica para la representacion grafica de objetos en R, mientras que la funcion *density* calcula la respectiva densidad.
+
+4.Si se quiere cambiar el titulo de la grafica se utiliza *main*,el color *col*,el tipo y grosor de la linea se usa *lty* y *lwd* respectivamente. 
+
+Y listo!
+
+A continuacion se muestra el codigo utilizado en R y su respectiva grafico de densidad.
+
+```{r}
+head(mtcars)
+plot(density(mtcars$mpg),main="Grafico de densidad",col="red",lty=2,lwd=3,ylab="Densidad",xlab="MPG")
+```
+

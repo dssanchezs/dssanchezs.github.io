@@ -11,12 +11,17 @@ navbar:
        - text: "Trabajos"
          icon: fa-archive
          href: about.html
+       - text: "Densidades"
+         icon: fa-archive
+         href: densidades.html
+      
+      
        
   right:
     - icon: fa-envelope-o
       href: "mailto:dssanchezs@unal.edu.co"
     - icon: fa-github
-      href: https://dssanchezs.github.io/
+      href: https://github.com/dssanchezs/dssanchezs.github.io
 output:
   html_document:
     theme: flatly

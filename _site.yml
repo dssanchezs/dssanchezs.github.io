@@ -11,9 +11,7 @@ navbar:
        - text: "Trabajos"
          icon: fa-archive
          href: about.html
-       - text: "Densidades"
-         icon: fa-archive
-         href: densidades.html
+       
   right:
     - icon: fa-envelope-o
       href: "mailto:dssanchezs@unal.edu.co"

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: " "
 ---
 ## Comparacion de dos modelos estadisticos para estimar el WAR (Win Above Replacement) con modelos GAMLSS
 
